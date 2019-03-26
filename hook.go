@@ -1,7 +1,7 @@
 package maryhelp
 
 import (
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/ansel1/merry"
 )
 
